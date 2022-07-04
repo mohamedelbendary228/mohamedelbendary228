@@ -25,7 +25,7 @@
 - TaskedIn Schooling ( [Android](https://apps.apple.com/us/app/taskedin-schooling/id1610527915) ) ( [IOS](https://apps.apple.com/app/id1610527915) )
 - MegaTrust Jobs ( [Android](https://apps.apple.com/us/app/megatrust-jobs/id1547002894) ) ( [IOS](https://apps.apple.com/us/app/megatrust-jobs/id1547002894) )
 - MegaTrust Employees ( [Android](https://play.google.com/store/apps/details?id=net.megatrust.employee&hl=en_GB&gl=US) )
-- Sanda ( [Adroid](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp) ) ( [IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495) )
+- Sanda ( [Android](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp) ) ( [IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495) )
 
 
 <!-- <h3 align="left">Connect with me:</h3>
