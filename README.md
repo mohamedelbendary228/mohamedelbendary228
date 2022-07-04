@@ -19,12 +19,13 @@
 
 - 📫 How to reach me **albendary.com@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P2iCUVB58E8gQMbNfBwQ68YG2TCWsP4L/view?usp=sharing](https://drive.google.com/file/d/1P2iCUVB58E8gQMbNfBwQ68YG2TCWsP4L/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1J36uu5NfALtvuEsD25SUz_RQskGZhc1R/view?usp=sharing](https://drive.google.com/file/d/1J36uu5NfALtvuEsD25SUz_RQskGZhc1R/view?usp=sharing)
 
 #### Apps built with Flutter that I participated in:
-- [TaskedIn Schooling](https://apps.apple.com/us/app/taskedin-schooling/id1610527915)
-- [MegaTrust Jobs](https://apps.apple.com/us/app/megatrust-jobs/id1547002894)
-- [MegaTrust Employees](https://play.google.com/store/apps/details?id=net.megatrust.employee&hl=en_GB&gl=US)
+- TaskedIn Schooling ( [Android](https://apps.apple.com/us/app/taskedin-schooling/id1610527915) ) ( [IOS](https://apps.apple.com/app/id1610527915) )
+- MegaTrust Jobs ( [Android](https://apps.apple.com/us/app/megatrust-jobs/id1547002894) ) ( [IOS](https://apps.apple.com/us/app/megatrust-jobs/id1547002894) )
+- MegaTrust Employees ( [Android](https://play.google.com/store/apps/details?id=net.megatrust.employee&hl=en_GB&gl=US) )
+- Sanda ( [Adroid](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp) ) ( [IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495) )
 
 
 <!-- <h3 align="left">Connect with me:</h3>
