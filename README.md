@@ -19,9 +19,10 @@
 
 - 📫 How to reach me **albendary.com@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yMPUjxnAGj5QbTICgcyvKdcO6gjRRiMn/view?usp=sharing](https://drive.google.com/file/d/1yMPUjxnAGj5QbTICgcyvKdcO6gjRRiMn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ccXRoXSSCe3AqLMfRjIJFAwcOFoDTXcC/view?usp=share_link](https://drive.google.com/file/d/1ccXRoXSSCe3AqLMfRjIJFAwcOFoDTXcC/view?usp=share_link)
 
 #### Apps built with Flutter that I participated in:
+- Jeel ([Android](https://play.google.com/store/apps/details?id=com.jeelapp.android))
 - TaskedIn Schooling ( [Android](https://apps.apple.com/us/app/taskedin-schooling/id1610527915) ) ( [IOS](https://apps.apple.com/app/id1610527915) )
 - MegaTrust Jobs ( [Android](https://apps.apple.com/us/app/megatrust-jobs/id1547002894) ) ( [IOS](https://apps.apple.com/us/app/megatrust-jobs/id1547002894) )
 - MegaTrust Employees ( [Android](https://play.google.com/store/apps/details?id=net.megatrust.employee&hl=en_GB&gl=US) )
