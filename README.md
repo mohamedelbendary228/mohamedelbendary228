@@ -11,9 +11,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelbendary228&title=Repositories,Commits,Followers" alt="mohamedelbendary228" /></a> </p> -->
 
-- 🔭 I’m currently working on **sharpening my skills as a software engineer.**
+- 🔭 I’m working on **sharpening my skills as a software engineer.**
 
-- 🌱 I’m currently learning **Mobile Application Development and make my skills in flutter more powerful**
+- 🌱 I’m learning **Mobile Application Development and making my skills in Flutter more powerful**
 
 - 👯 I’m looking to collaborate on **open source code and anything related to dart and flutter**
 
