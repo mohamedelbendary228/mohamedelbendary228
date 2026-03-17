@@ -20,9 +20,11 @@
 
 - 📫 How to reach me **albendary.com@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H5Rrw7QGPUzkeMhWeiT8r9h092hQLvyk/view?usp=sharing](https://drive.google.com/file/d/1H5Rrw7QGPUzkeMhWeiT8r9h092hQLvyk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/112xqhl5NExtzZ8ayEDtSznMQLWty84Rx/view?usp=sharing](https://drive.google.com/file/d/112xqhl5NExtzZ8ayEDtSznMQLWty84Rx/view?usp=sharing)
 
 #### Apps built with Flutter that I participated in:
+- QSalary ([Android](https://play.google.com/store/apps/details?id=app.qsalary.com)) ([IOS](https://apps.apple.com/jp/app/qsalary/id1580559019?l=en-US)) 
+- Ozee ([Android](https://play.google.com/store/apps/details?id=app.ozeesalon.com&hl=ar)) ([IOS](https://apps.apple.com/us/app/ozee/id6453475297)) 
 - Jeel ([Android](https://play.google.com/store/apps/details?id=com.jeelapp.android)) ([IOS](https://apps.apple.com/eg/app/jeel-%D8%AC%D9%8A%D9%84/id1489596085)) ([Web](http://web.jeelpay.com.s3-website-us-east-1.amazonaws.com/#/splash))
 - Rayan And Bayan ( [Android](https://play.google.com/store/apps/details?id=net.rayyaanbayaan.app) ) ( [IOS](https://apps.apple.com/eg/app/%D8%B1%D9%8A%D8%A7%D9%86-%D9%88%D8%A8%D9%8A%D8%A7%D9%86/id6450221877) )
 - TaskedIn Schooling ( [Android](https://apps.apple.com/us/app/taskedin-schooling/id1610527915) ) ( [IOS](https://apps.apple.com/app/id1610527915) )
